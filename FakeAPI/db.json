@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Tiến Hoàn",
+      "gender": "Nam",
+      "dob": "2000-10-07",
+      "class": "DH8C1",
+      "majors": "Công nghệ phần mềm",
+      "phone": "868312040",
+      "email": "Hoan@gmail.com"
+    },
+    {
+      "fullName": "Admin",
+      "gender": "Nam",
+      "dob": "2022-01-19",
+      "class": "DH8C7",
+      "majors": "Mạng và truyền thông",
+      "phone": "987654321",
+      "email": "Admin@gmail.com",
+      "id": 2
+    },
+    {
+      "fullName": "Nguyễn Thế Hiệp",
+      "gender": "Nam",
+      "dob": "2000-02-01",
+      "class": "DH8C1",
+      "majors": "Công nghệ phần mềm",
+      "phone": "987654321",
+      "email": "Hiep@gmail.com",
+      "id": 3
+    }
+  ]
+}

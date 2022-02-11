@@ -1,0 +1,12 @@
+Fetch 
+- JSON server: API Server (Fake) / Mock API 
+- CRUD
+    + Create: Tạo mới -> POST
+    + Read: Lấy dữ liệu -> GET
+    + Update: Chỉnh sửa -> PUT / PATCH
+    + Delete: Xóa -> DELETE
+-Postman
+
+Angular: Thiết lập ứng dụng Angular
+Angular: Setting up APIS and Mock Data
+npm i bootstrap jquery popper
